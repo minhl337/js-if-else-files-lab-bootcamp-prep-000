@@ -3,6 +3,8 @@ var height = "74"
 
 if(name==="susan"){
   console.log("name is correct")
+} else{
+  console.log("expected name to be susan")
 }
 
 
